@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=5CFFF500&vCenter=true&width=435&lines=Welcome+to+GDYG%E2%80%99s+personal+homepage)](https://git.io/typing-svg)
 
 <!--
 **GDYG/GDYG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
