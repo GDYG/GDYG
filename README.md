@@ -57,7 +57,7 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-[![GDYG's github activity graph](https://github-readme-activity-graph-GDYG.vercel.app/graph?username=GDYG&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GDYG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GDYG&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GDYG" />
