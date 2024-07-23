@@ -16,3 +16,20 @@
 [![GDYG](https://img.shields.io/badge/-GDYG-0077B5?style=for-the-badge&logo=GDYG&logoColor=white)](https://gdyg5.top/)
 
 ![](https://raw.githubusercontent.com/GDYG/GDYG/main/dist/github-contribution-grid-snake.svg)
+
+![](https://raw.githubusercontent.com/GDYG/GDYG/main/dist/github-contribution-grid-snake.svg)
+
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=GDYG" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDYG&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-GDYG.vercel.app/graph?username=GDYG&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GDYG" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=GDYG" />
+</div>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
