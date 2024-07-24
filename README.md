@@ -4,7 +4,7 @@
 
 ##### Hi, I'm GDYG:
 - 🎓毕业于安阳工学院计算机科学与技术学院软件工程专业
-- :test_tube: 一名前端开发工程师，从事前端行业4年时间了
+- :test_tube: 一名前端攻城狮，目前已有4年时间
 - :speech_balloon: 欢迎来向我提问或者交流前端技术！
 - :mailbox: 如果有工作机会，您可以通过以下链接来联系我，感谢！
 ##### Visitors:
@@ -60,8 +60,6 @@
 [![GDYG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GDYG&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GDYG" />
-    <img  src="https://github-profile-trophy.vercel.app/?username=GDYG" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=GDYG&show_icons=true&theme=tokyonight" alt="GitHub Status" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=GDYG&layout=compact&theme=tokyonight" />
 </div>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
