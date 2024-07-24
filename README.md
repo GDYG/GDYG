@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=5CFFF500&vCenter=true&width=435&lines=Hey+there!+I'm+GDYG.)](https://git.io/typing-svg)
 
+<hr>
+
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ##### Hi, I'm GDYG:
@@ -14,17 +16,19 @@
 [![GitHub](https://img.shields.io/badge/-GITHUB-2CA5E0?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GDYG/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdyg01@gmail.com)
 [![GDYG](https://img.shields.io/badge/-GDYG-0077B5?style=for-the-badge&logo=GDYG&logoColor=white)](https://gdyg5.top/)
+<br>
 
-![](https://raw.githubusercontent.com/GDYG/GDYG/main/dist/github-contribution-grid-snake.svg)
+<hr>
 
 <div align="center">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=GDYG&show_icons=true&theme=tokyonight" alt="GitHub Status" />
     <span>&emsp;&emsp;</span>
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GDYG&layout=compact&theme=tokyonight" />
-    <span>&emsp;&emsp;</span>
 </div>
 
 [![GDYG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GDYG&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<hr>
 
 ##### Languages I use
 
