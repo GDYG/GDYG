@@ -6,7 +6,7 @@
 
 ##### Hi, I'm GDYG:
 - 🎓毕业于安阳工学院计算机科学与技术学院软件工程专业
-- :test_tube: 一名前端攻城狮，目前已有4年时间
+- :test_tube: 一名前端攻城狮，目前已有4年工作经验
 - :speech_balloon: 欢迎来向我提问或者交流前端技术！
 - :mailbox: 如果有工作机会，您可以通过以下链接来联系我，感谢！
 ##### Visitors:
@@ -15,7 +15,7 @@
 ##### Follow me:
 [![GitHub](https://img.shields.io/badge/-GITHUB-2CA5E0?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GDYG/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdyg01@gmail.com)
-[![GDYG's Sites](https://img.shields.io/badge/-GDYG-0077B5?style=for-the-badge&logo=G&logoColor=white)](https://gdyg5.top/)
+[![GDYG's Sites](https://img.shields.io/badge/-GDYG's个人网站-0077B5?style=for-the-badge&logo=G&logoColor=white)](https://gdyg5.top/)
 <br>
 
 <hr>
