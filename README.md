@@ -2,11 +2,11 @@
 
 <hr>
 
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ##### Hi, I'm GDYG:
-- 🎓毕业于安阳工学院计算机科学与技术学院软件工程专业
-- :test_tube: 一名前端攻城狮，目前已有4年工作经验
+- 🎓本科 - 计算机科学与技术学院 - 软件工程
+- :test_tube: 一名前端攻城狮，目前已有5年工作经验
 - :speech_balloon: 欢迎来向我提问或者交流前端技术！
 - :mailbox: 如果有工作机会，您可以通过以下链接来联系我，感谢！
 ##### Visitors:
