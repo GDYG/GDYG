@@ -9,21 +9,23 @@
 - :test_tube: 一名前端攻城狮，目前已有5年工作经验
 - :speech_balloon: 欢迎来向我提问或者交流前端技术！
 - :mailbox: 如果有工作机会，您可以通过以下链接来联系我，感谢！
+
 ##### Visitors:
 [![Github](https://img.shields.io/github/followers/GDYG?label=Follow&style=social)](https://github.com/GDYG) 
 <img src="https://komarev.com/ghpvc/?username=GDYG" alt="GDYG" />
+
 ##### Follow me:
 [![GitHub](https://img.shields.io/badge/-GITHUB-2CA5E0?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GDYG/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdyg01@gmail.com)
 [![GDYG's Sites](https://img.shields.io/badge/-GDYG's个人网站-0077B5?style=for-the-badge&logo=G&logoColor=white)](https://gdyg5.top/)
-<br>
+<br><br><br>
 
 <hr>
 
 <div align="center">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=GDYG&show_icons=true&theme=tokyonight" alt="GitHub Status" />
-    <span>&emsp;&emsp;</span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GDYG&layout=compact&theme=tokyonight" />
+    <img height="145px" src="https://github-readme-stats.vercel.app/api?username=GDYG&show_icons=true&theme=tokyonight" alt="GitHub Status" />
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GDYG&&hide=HTML,Less,Shell,CSS,Scss&layout=compact&theme=tokyonight" />
+    <img height="145px" src="https://streak-stats.demolab.com?user=GDYG&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 [![GDYG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GDYG&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -38,7 +40,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Golang](https://img.shields.io/badge/-Golang-000000?style=flat&logo=go)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=nest.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
@@ -61,3 +62,9 @@
 [![Rust](https://img.shields.io/badge/-Rust-444444?style=flat&logo=rust&logoColor=175DDC)](https://www.rust-lang.org/)
 [![Nest.js](https://img.shields.io/badge/-Nest.js-444444?style=flat&logo=Nest.js&logoColor=2f7485)](https://nestjs.com/)
 [![Web3](https://img.shields.io/badge/-Web3-444444?style=flat&logo=web3&logoColor=800000)](https://medium.com/@chaincodeconsulting/dapp-development-introduction-benefits-trends-50f37c1de2b2)
+[![Solidity](https://img.shields.io/badge/-Solidity-444444?style=flat&logo=solidity&logoColor=800000)](https://soliditylang.org/)
+[![Ethers](https://img.shields.io/badge/-Ethers-444444?style=flat&logo=ethers&logoColor=800000)](https://docs.ethers.org/)
+[![Hardhat](https://img.shields.io/badge/-Hardhat-444444?style=flat&logo=hardhat&logoColor=800000)](https://hardhat.org/)
+[![Wagmi](https://img.shields.io/badge/-Wagmi-444444?style=flat&logo=wagmi&logoColor=800000)](https://wagmi.sh/react/getting-started)
+[![Rainbowkit](https://img.shields.io/badge/-Rainbowkit-444444?style=flat&logo=rainbowkit&logoColor=800000)](https://rainbowkit.com/zh-CN)
+[![Viem](https://img.shields.io/badge/-Viem-444444?style=flat&logo=viem&logoColor=800000)](https://viem.sh/)
