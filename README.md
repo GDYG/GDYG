@@ -23,9 +23,9 @@
 <hr>
 
 <div align="center">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=GDYG&show_icons=true&theme=tokyonight" alt="GitHub Status" />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GDYG&&hide=HTML,Less,Shell,CSS,Scss&layout=compact&theme=tokyonight" />
-    <img height="140px" src="https://streak-stats.demolab.com?user=GDYG&theme=tokyonight" alt="GitHub Streak" />
+    <img height="130px" src="https://github-readme-stats.vercel.app/api?username=GDYG&show_icons=true&theme=tokyonight" alt="GitHub Status" />
+    <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GDYG&&hide=HTML,Less,Shell,CSS,Scss&layout=compact&theme=tokyonight" />
+    <img height="130px" src="https://streak-stats.demolab.com?user=GDYG&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 [![GDYG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GDYG&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
