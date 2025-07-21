@@ -28,7 +28,9 @@
     <img width="35%" src="https://streak-stats.demolab.com?user=GDYG&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-[![GDYG's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GDYG&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align='center'>
+    <img width='93.7%' src='https://github-readme-activity-graph.vercel.app/graph?username=GDYG&theme=tokyo-night' alt='GDYG's github activity graph'>
+</div>
 
 <hr>
 
