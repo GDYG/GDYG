@@ -17,7 +17,7 @@
 ##### Follow me:
 [![GitHub](https://img.shields.io/badge/-GITHUB-2CA5E0?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GDYG/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdyg01@gmail.com)
-[![GDYG's Sites](https://img.shields.io/badge/-GDYG's个人网站-0077B5?style=for-the-badge&logo=G&logoColor=white)](https://gdyg5.sbs/)
+[![GDYG's Sites](https://img.shields.io/badge/-GDYG's个人网站-0077B5?style=for-the-badge&logo=G&logoColor=white)](https://gdyg.blog/)
 <br><br><br>
 
 <hr>
